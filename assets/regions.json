@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pokemon Blue and Red",
+    "subtitle": "Load Pokemon Kanto list",
+    "quantity": 151,
+    "image": "kanto"
+  },
+  {
+    "name": "Pokemon Gold and Silver",
+    "subtitle": "Load Pokemon Johto list",
+    "quantity": 251,
+    "image": "johto"
+  },
+  {
+    "name": "Pokemon Ruby and Sapphire",
+    "subtitle": "Load Pokemon Hoenn list",
+    "quantity": 386,
+    "image": "hoenn"
+  },
+  {
+    "name": "Pokemon Diamond and Pearl",
+    "subtitle": "Load Pokemon Sinnoh list",
+    "quantity": 493,
+    "image": "sinnoh"
+  }
+]
